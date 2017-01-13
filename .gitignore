@@ -1,0 +1,9 @@
+#OS Files
+.DS_Store
+
+#LaTeX files
+*.out
+*.log
+*.aux
+
+*.gz
